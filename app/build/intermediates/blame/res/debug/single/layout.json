@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/single_place.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/single_place.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/listplaceholder.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/listplaceholder.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/map_json.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/map_json.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/lite_list_demo_row.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/lite_list_demo_row.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/phone_call.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/phone_call.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/lite_list_demo.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/lite_list_demo.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/places_file.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/places_file.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/animation.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/animation.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/listview_single_row.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/listview_single_row.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/item_details_view.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/item_details_view.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/layout/my_location_demo.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/layout/my_location_demo.xml"
+    }
+]

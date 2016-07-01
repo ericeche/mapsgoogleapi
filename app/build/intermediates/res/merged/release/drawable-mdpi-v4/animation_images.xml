@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/hw" android:duration="250" />
+    <item android:drawable="@drawable/h7" android:duration="75" />
+    <item android:drawable="@drawable/h8" android:duration="75" /> 
+    <item android:drawable="@drawable/h9" android:duration="75" />
+    <item android:drawable="@drawable/h10" android:duration="75" />
+    <item android:drawable="@drawable/h11" android:duration="75" />
+    <item android:drawable="@drawable/h12" android:duration="75" />
+    <item android:drawable="@drawable/h13" android:duration="75" />
+    <item android:drawable="@drawable/h14" android:duration="75" />
+    <item android:drawable="@drawable/h15" android:duration="75" /> 
+    <item android:drawable="@drawable/h15" android:duration="75" />
+    <item android:drawable="@drawable/h16" android:duration="75" />
+    <item android:drawable="@drawable/h17" android:duration="75" />
+    <item android:drawable="@drawable/h18" android:duration="75" />
+    <item android:drawable="@drawable/h19" android:duration="75" />
+    <item android:drawable="@drawable/h20" android:duration="75" />
+    <item android:drawable="@drawable/h21" android:duration="75" /> 
+    <item android:drawable="@drawable/h22" android:duration="75" />
+    <item android:drawable="@drawable/h23" android:duration="75" />
+    <item android:drawable="@drawable/h24" android:duration="75" />
+    <item android:drawable="@drawable/h25" android:duration="75" />
+    <item android:drawable="@drawable/h26" android:duration="75" />
+    <item android:drawable="@drawable/hw" android:duration="250" />
+
+    <!-- And back again :-) -->
+    <item android:drawable="@drawable/hw" android:duration="250" />
+    <item android:drawable="@drawable/h26" android:duration="75" />
+    <item android:drawable="@drawable/h25" android:duration="75" />
+    <item android:drawable="@drawable/h24" android:duration="75" />
+    <item android:drawable="@drawable/h23" android:duration="75" />
+    <item android:drawable="@drawable/h22" android:duration="75" />
+    <item android:drawable="@drawable/h21" android:duration="75" />
+    <item android:drawable="@drawable/h20" android:duration="75" /> 
+    <item android:drawable="@drawable/h19" android:duration="75" />
+    <item android:drawable="@drawable/h18" android:duration="75" />
+    <item android:drawable="@drawable/h17" android:duration="75" />
+    <item android:drawable="@drawable/h16" android:duration="75" />
+    <item android:drawable="@drawable/h15" android:duration="75" /> 
+    <item android:drawable="@drawable/h14" android:duration="75" /> 
+    <item android:drawable="@drawable/h13" android:duration="75" />
+    <item android:drawable="@drawable/h12" android:duration="75" />
+    <item android:drawable="@drawable/h11" android:duration="75" />
+    <item android:drawable="@drawable/h10" android:duration="75" />
+    <item android:drawable="@drawable/h9" android:duration="75" />  
+    <item android:drawable="@drawable/h8" android:duration="75" />  
+     <item android:drawable="@drawable/h7" android:duration="75" />                             
+    <item android:drawable="@drawable/hw" android:duration="250" />   
+ </animation-list>

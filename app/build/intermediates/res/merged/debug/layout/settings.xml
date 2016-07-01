@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" >  
+  
+   
+   
+   <LinearLayout
+   	  android:layout_width="fill_parent"
+	  android:layout_height="fill_parent"
+	  android:orientation="vertical"
+	  android:gravity="center"
+	   >
+	  
+	    <TextView 
+	    	android:text="Sound on"
+	    	android:id="@+id/sound" 
+			style="@style/MenuFont" />
+	     
+	    <TextView 
+	    	android:text="Music on"
+	    	android:id="@+id/music" 
+			style="@style/MenuFont" />
+	   
+	    <TextView 
+	    	android:text="Vibrations on"
+	    	android:id="@+id/vibrate" 
+			style="@style/MenuFont" />
+	    
+	    <TextView 
+	    	android:text="Graphics low"
+	    	android:id="@+id/graphics" 
+			style="@style/MenuFont" />  
+		
+		<TextView 
+	    	android:text="New JSON URL"
+	    	android:id="@+id/url"
+			style="@style/MenuFont" />  
+		<TextView 
+	    	android:text="Reset"
+	    	android:id="@+id/reset" 
+			style="@style/MenuFont" /> 	
+					            
+  </LinearLayout>           
+  
+</RelativeLayout>

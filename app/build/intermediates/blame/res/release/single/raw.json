@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/explosion.wav",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/explosion.wav"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/monster_high.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/monster_high.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/platillo_volador_07.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/platillo_volador_07.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/laser_2.mp3",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/laser_2.mp3"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/silent.mp3",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/silent.mp3"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/ufo3a.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/ufo3a.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/prueba_export.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/prueba_export.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/nave_espacial_03.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/nave_espacial_03.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/ufo01.3ds",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/ufo01.3ds"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/raw/nullsleep.mp3",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/raw/nullsleep.mp3"
+    }
+]

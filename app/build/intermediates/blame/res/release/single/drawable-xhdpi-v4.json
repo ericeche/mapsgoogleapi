@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_action_call.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/drawable-xhdpi/ic_action_call.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/pegman.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/drawable-xhdpi/pegman.png"
+    }
+]

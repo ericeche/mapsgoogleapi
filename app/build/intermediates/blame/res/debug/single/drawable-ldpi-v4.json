@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_call.png",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/drawable-ldpi/ic_action_call.png"
+    }
+]

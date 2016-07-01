@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/GoogleApi2/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/ericecheverri/GoogleApi2/app/src/main/res/menu/activity_main.xml"
+    }
+]

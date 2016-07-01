@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_item" android:alphabeticShortcut="p"
+		android:title="Play Game" android:icon="@android:drawable/ic_menu_compass" />
+
+	<item android:id="@+id/menu_toast" android:alphabeticShortcut="t"
+		android:title="Top Scores" android:icon="@android:drawable/ic_menu_directions" />
+
+	<item android:id="@+id/menu_play" android:alphabeticShortcut="b"
+		android:title="Buy" android:icon="@android:drawable/ic_menu_manage" />
+
+	<item android:id="@+id/menu_new" android:alphabeticShortcut="h"
+		android:title="Help" android:icon="@android:drawable/ic_menu_preferences" />
+
+	<item android:id="@+id/menu_quit" android:alphabeticShortcut="q"
+		android:title="Quit" android:icon="@android:drawable/ic_menu_gallery" />
+
+</menu>
+
+  
