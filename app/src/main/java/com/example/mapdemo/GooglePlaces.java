@@ -23,7 +23,7 @@ public class GooglePlaces {
 
 	// Google API Key
 //	private static final String API_KEY = "AIzaSyBW6HvYKfvRTCpAC2r8FShBiR4QYpK4yik"; // Any Referrer
-	private static final String API_KEY = "AIzaSyDTTCchFzQ5AEPdfR6jHezB8fUqrkf4uS4"; // Any Referrer
+	private static final String API_KEY = "AIzaSyAwLgx14AmdsJTkI5r_NbgZ3dHu_I56nR0"; // Any Referrer
 	
 	// Google Places serach url's
 	private static final String PLACES_SEARCH_URL = "https://maps.googleapis.com/maps/api/place/search/json?";
@@ -75,7 +75,7 @@ public class GooglePlaces {
 
 	/**
 	 * Searching single place full details
-	 * @param refrence - reference id of place
+	 * @param reference - reference id of place
 	 * 				   - which you will get in search api request
 	 * */
 	public PlaceDetails getPlaceDetails(String reference) throws Exception {
@@ -93,7 +93,7 @@ public class GooglePlaces {
 			return place;
 
 		} catch (HttpResponseException e) {
-			Log.e("Error in Perform Details", e.getMessage());
+		//	Log.e("Error in Perform Details", e.getMessage());
 			throw e;
 		}
 	}

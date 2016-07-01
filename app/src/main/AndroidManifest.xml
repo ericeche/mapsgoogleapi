@@ -31,7 +31,7 @@
          See: https://developers.google.com/maps/documentation/android/start
          for instructions on how to get your own key. -->
     <meta-data android:name="com.google.android.maps.v2.API_KEY"
-    android:value="AIzaSyBX9zPXPzCl0BGFaZsBe1Ur9S_fy6X19G0"/>
+    android:value="AIzaSyAwLgx14AmdsJTkI5r_NbgZ3dHu_I56nR0"/>
     <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
